@@ -1,0 +1,162 @@
+.sub_title{
+    font-size: 20px !important;
+    font-weight: 600 !important;
+    color: #000 !important;
+}
+
+.labels .ec-offer-coupon {
+    background: #ed3f46 !important;
+}
+
+.labels .ec-offer-coupon .ec-cpn-title .coupon-title {
+    color: #000 !important;
+}
+
+.section-title .ec-title {
+    color: #ed6e4c !important;
+    
+}
+
+.logoo{
+    text-transform: uppercase;
+    color: black;
+}
+
+.section-title .sub-title {
+    margin: 10px 0 0 0 !important;
+    color: #dd3531;
+    padding: 0 20%;
+    font-size: 14px;
+    letter-spacing: 0.03rem;
+    font-weight: 800;
+    padding-top: 30px;
+    text-align: justify;
+}
+
+.labels .ec-offer-coupon .ec-cpn-title .coupon-title {
+    color: #000 !important;
+    font-size: 30px;
+}
+
+.labels .ec-offer-coupon .ec-cpn-desc p {
+    color: #fff;
+    font-size: 14px;
+    line-height: 24px;
+    margin-top: 25px;
+}
+
+.btn-secondary:hover {
+    color: #ffffff;
+    background-color: #000;
+    border-color: #000;
+}
+
+
+/* feaature section start  */
+  .featur_section{
+    background-color: #ed6e4c;
+  }
+
+  .feature_content h2{
+     font-weight: bold;
+     margin-bottom: 20px;
+  }
+
+  .feature_content dt{
+    color: #000;
+  }
+
+  .feature_content dd{
+    color: #fff;
+  }
+
+  .choose_content P{
+     color: #ed3f46;
+     font-size: 20px;
+     text-align: justify;
+  }
+
+/* feaature section start  */
+
+/* why choose us start*/
+
+.chooseus_section{
+  background-color: #000;
+  margin: 20px 0px;
+}
+ .choose_content dt{
+    color: #dd3531;
+ }
+ .choose_content dd{
+    color: #fff;
+ }
+
+/* why choose us end*/
+
+
+/* checkout start */
+  .checkout{
+    background-color: #dd3531;
+  }
+
+  .cart_image{
+    margin: 10px;
+  }
+
+  .custom_heading{
+    font-size: 20px !important;
+    text-align: center;
+    font-weight: 800 !important;
+    color: #000 !important;
+  }
+
+  .copyright_design{
+    background-color: #000;
+    padding: 20px 0px;
+  }
+/* checkout end */
+
+.ec-copy {
+    color: #dd3531;
+}
+
+.company{
+    color: #fff !important;
+}
+
+@media only screen and (max-width: 575px) and (min-width: 320px) {
+    .labels .ec-offer-coupon .ec-cpn-title .coupon-title {
+        font-size: 20px;
+       
+    }
+
+    .section-title .ec-title {
+        font-size: 20px;
+        padding: 0 0px;
+    }
+
+    .section-title .sub-title {
+        margin: 0 0 0 0 !important;
+        color: #dd3531;
+        padding: 0px;
+        font-size: 14px;
+        letter-spacing: 0.0rem;
+        font-weight: 800;
+        padding-top: 20px;
+        text-align: justify;
+}
+
+.footer-off-msg span {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.choose_content P {
+    font-size: 16px;
+}
+
+}
+
+.ec-cart-summary-bottom .ec-cart-summary .text-left {
+    font-weight: 800;
+}
